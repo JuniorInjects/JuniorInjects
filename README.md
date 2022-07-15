@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&color=47F7F2&background=03030300&center=true&multiline=true&lines=Welcome+to+my+Github+profile+%3AP)](https://git.io/typing-svg)
+
 - 👋 Hi, I’m @JuniorInjects
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning java
