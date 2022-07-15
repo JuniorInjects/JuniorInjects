@@ -1,8 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&color=47F7F2&background=03030300&center=true&multiline=true&lines=Welcome+to+my+Github+profile+%3AP)](https://git.io/typing-svg)
 
-- 👋 Hi, I’m @JuniorInjects
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning java
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=qzbwhonae2ikelqgc2t9r8z3g&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuniorInjects)](https://github.com/anuraghazra/github-readme-stats)
 <!---
