@@ -11,6 +11,7 @@
   <a href="https://www.twitch.tv/feeldripin">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Twitch Badge"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?JuniorInjects&style=flat-square&color=blue" alt=""/>
 </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&color=47F7F2&background=03030300&center=true&multiline=true&lines=Welcome+to+my+Github+profile+%3AP)](https://git.io/typing-svg)
