@@ -38,4 +38,4 @@
 
 ---
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JuniorInjects&theme=Javascript-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JuniorInjects&theme=git-dark&hide_border=true&border_radius=15&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
