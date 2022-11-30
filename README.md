@@ -11,7 +11,9 @@
   <a href="https://www.twitch.tv/feeldripin">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Twitch Badge"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=JuniorInjects&style=flat-square&color=blue" alt=""/>
+  <div>
+    <img src="https://komarev.com/ghpvc/?username=JuniorInjects&style=flat-square&color=blue" alt=""/>  
+  </div>
 </div>
 
 <h1 align="center">
