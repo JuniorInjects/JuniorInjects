@@ -8,7 +8,7 @@
   <a href="your-twitter-URL">
     <img src="https://twitter.com/SubgiftY" alt="Twitter Badge"/>
   </a>
-  <a href="your-linkedin-URL">
+  <a href="your-twitch-URL">
     <img src="https://www.twitch.tv/feeldripin" alt="Twitch Badge"/>
   </a>
 </div>
