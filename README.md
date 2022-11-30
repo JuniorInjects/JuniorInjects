@@ -12,7 +12,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Twitch Badge"/>
   </a>
   <div>
-    <img src="https://img.shields.io/github/stars/JuniorInjects/awesome-github-profile-readme" alt="Stars Badge"/>
     <img src="https://komarev.com/ghpvc/?username=JuniorInjects&style=flat-square&color=red" alt=""/>  
   </div>
 </div>
