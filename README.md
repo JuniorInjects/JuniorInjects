@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="https://www.twitch.tv/feeldripin">
-    <img src="https://img.shields.io/badge/Twitch-violett?style=for-the-badge&logo=linkedin&logoColor=white" alt="Twitch Badge"/>
+    <img src="https://img.shields.io/badge/Twitch-violet?style=for-the-badge&logo=twitch&logoColor=black" alt="Twitch Badge"/>
   </a>
   <div>
     <img src="https://komarev.com/ghpvc/?username=JuniorInjects&style=flat-square&color=red" alt=""/>  
