@@ -38,11 +38,9 @@
 
 ---
 
-<div>
-  <h1>### :fire: Currently working :</h1>
-  <a>  ▹ :art: RGBAddon (Labymod Addon)</a>
-  <a>  ▹ :headphones: SlightlyBot (Discord Bot)</a>
-</div>
+### :fire: Currently working on :
+  ▹ :art: RGBAddon (Labymod Addon)
+  ▹ :headphones: SlightlyBot (Discord Bot)
 
 ---
 
