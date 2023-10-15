@@ -1,20 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="100"/>
 </div>
-<div id="badges" align="center">
-  <a href="https://www.youtube.com/channel/UCXh9gpAu732z6PvDHG7VZCw">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://twitter.com/SubgiftY">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a href="https://www.twitch.tv/feeldripin">
-    <img src="https://img.shields.io/badge/Twitch-violet?style=for-the-badge&logo=twitch&logoColor=black" alt="Twitch Badge"/>
-  </a>
-  <div>
-    <img src="https://komarev.com/ghpvc/?username=JuniorInjects&style=flat-square&color=red" alt=""/>  
-  </div>
-</div>
 
 ---
 
