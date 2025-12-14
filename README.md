@@ -15,7 +15,7 @@
 
 ### Favorite IDE :
 
-<img src="icons/intellij/intellij-original.svg" title="IntelliJ" **alt="IntelliJ" width="40" height="40"/>
+<img src="icons/intellij/intellij-original.svg" title="IntelliJ" **alt="IntelliJ" width="40" height="40"/>&nbsp;
 
 ---
 
