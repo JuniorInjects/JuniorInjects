@@ -26,4 +26,4 @@
 
 ---
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JuniorInjects&theme=synthwave&border_radius=2&date_format=j%20M%5B%20Y%5D&card_width=700&card_height=200" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JuniorInjects&theme=dark&border_radius=2&date_format=j%20M%5B%20Y%5D&card_width=900&card_height=200" alt="GitHub Streak" /></a>
